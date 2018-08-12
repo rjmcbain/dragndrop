@@ -1,7 +1,10 @@
 # dragndrop
 
 ## View Project
-Go to [http://www.rjmcbain.com/dragndrop/index.html](http://www.rjmcbain.com/dragndrop/index.html)
+
+Run index.html in a browser
+
+Try it - [Drag N Drop](http://www.rjmcbain.com/dragndrop/index.html)
 
 Refresh the page to get a new random photo!
 
