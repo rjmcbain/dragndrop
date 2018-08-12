@@ -10,6 +10,10 @@ Refresh the page to get a new random photo!
 
 ![Image description](https://i.imgur.com/TeiYQOH.png)
 
+### Technologies Used
+
+Html  |  Css  |  Javascript
+
 ### Author
 
 [RJ McBain](http://www.rjmcbain.com)
