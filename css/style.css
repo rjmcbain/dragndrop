@@ -1,12 +1,25 @@
 body {
-  background: darksalmon;
+  background: rgb(13, 26, 39);
+}
+
+nav {
+  background: #1b1a1a;
+}
+div.container {
+  align-content: center;
+}
+
+main {
+  min-height: calc(100vh - 60px);
+  max-height: 100vh;
+  background: #292626;
 }
 
 .fill {
   background-image: url("http://source.unsplash.com/random/150x150");
   position: relative;
-  height: 150px;
-  width: 150px;
+  height: 145px;
+  width: 144px;
   top: 5px;
   left: 5px;
   cursor: pointer;
@@ -17,8 +30,10 @@ body {
   height: 160px;
   width: 160px;
   margin: 10px;
-  border: 3px salmon solid;
-  background-color: white;
+  border: 3px #cc775a solid;
+  background-color: rgb(54, 46, 46);
+  margin-top: 55px;
+  margin-bottom: -35px;
 }
 
 .hold {
@@ -32,4 +47,17 @@ body {
 
 .invisibile {
   display: none;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 1rem;
+  background: black;
+  color: white;
+  height: 60px;
+  list-style-type: none;
 }
